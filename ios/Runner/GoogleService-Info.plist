@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>13528632451-56unr3rff3lnt356m2nu8oq60vluap1h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.13528632451-56unr3rff3lnt356m2nu8oq60vluap1h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>13528632451-39e5deknnmqvpnr6hk41r37dath1fdla.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCkxptWmi2mvmHw1bfYze5hB-W2M-S1b-g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>13528632451</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.booking.nibbles</string>
+	<key>PROJECT_ID</key>
+	<string>nibbles-ef8cb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nibbles-ef8cb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:13528632451:ios:02e7f75bec880d41599fb6</string>
+</dict>
+</plist>

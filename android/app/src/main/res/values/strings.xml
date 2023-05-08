@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Nibbles</string>
+<string name="facebook_app_id">176306355171399</string>
+<string name="fb_login_protocol_scheme">fb176306355171399</string>
+<string name="facebook_client_token">5102f000b99ada929865236d8cb84c8a</string>
+</resources>

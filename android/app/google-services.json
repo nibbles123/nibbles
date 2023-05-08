@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "13528632451",
+    "project_id": "nibbles-ef8cb",
+    "storage_bucket": "nibbles-ef8cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13528632451:android:8757ce5b6a5a64e0599fb6",
+        "android_client_info": {
+          "package_name": "com.booking.nibbles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13528632451-39e5deknnmqvpnr6hk41r37dath1fdla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.booking.nibbles",
+            "certificate_hash": "960d5fb725f4f1617390d07c15e52d62d8746b16"
+          }
+        },
+        {
+          "client_id": "13528632451-i6cn3nikh2fjv7o77jk98b31ccqdob96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANkZMyjrXlkYUTdu-h3f3meQG-uPSVD4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13528632451-i6cn3nikh2fjv7o77jk98b31ccqdob96.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "13528632451-002rg7g5b4kcajuuujom3ii1volt9g2e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.booking.nibbles",
+                "app_store_id": "6446055325"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
